@@ -1,6 +1,6 @@
 # Mežu tipi — Interaktīva izglītojoša tīmekļa vietne
 
-**Autors:** Nikita Saboltas  
+**Autors:** Nikita Saboltas,Matvejs Rusaļčuks
 **Klase:** 9. klase
 
 ## Par projektu
@@ -70,6 +70,6 @@ mezu-tipi/
 
 ---
 
-**Izstrādātājs:** Nikita Saboltas  
+**Izstrādātājs:** Nikita Saboltas un Matvejs Rusaļčuk 
 **Projekta nosaukums:** Mežu tipi  
 **Mācību projekts — 9. klase**
