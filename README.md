@@ -1,41 +1,44 @@
-Mežu tipi
+# Mežu tipi — Interaktīva izglītojoša tīmekļa vietne
 
-Izglītojoša tīmekļa vietne par Latvijas mežiem
+**Autors:** Nikita Saboltas  
+**Klase:** 9. klase
 
-Autori: Nikita Saboltas un Matvejs Rusaļčuks
-Klase: 9.A
-Projekta veids: Mācību projekts
-Par projektu
+## Par projektu
 
-Mežu tipi ir mūsu mācību projekts, kurā mēs vēlamies pastāstīt par dažādiem mežu tipiem, to augiem un dzīvniekiem.
+**Mežu tipi** ir interaktīvs un izglītojošs tīmekļa projekts, kas palīdz lietotājiem iepazīt dažādus mežu tipus, to īpašības, augus un dzīvniekus. Vietne apvienos informatīvus tekstus, izglītojošus video, interaktīvus jautājumus un aptaujas, lai mācīšanās būtu interesantāka un saprotamāka.
 
-Mēs veidojam tīmekļa vietni, kurā būs pieejama informācija par Latvijas mežiem, izglītojoši video un jautājumi zināšanu pārbaudei. Mūsu mērķis ir izveidot vienkāršu un saprotamu vietni, kurā ikviens var uzzināt ko jaunu par dabu.
+## Projekta mērķis
 
-Projekta mērķis
+Projekta mērķis ir izveidot vienkāršu un lietotājam draudzīgu tīmekļa vietni, kas palīdz apgūt informāciju par mežu tipiem un veicina izpratni par Latvijas dabu un tās aizsardzību.
 
-Mūsu mērķis ir palīdzēt cilvēkiem labāk iepazīt Latvijas mežus un saprast, kāpēc tie ir svarīgi. Ar šī projekta palīdzību mēs vēlamies parādīt mežu daudzveidību un veicināt interesi par dabas aizsardzību.
+## Funkcijas
 
-Galvenās funkcijas
-Informācija par mežiem — apraksti par dažādiem mežu tipiem, augiem un dzīvniekiem.
-Izglītojoši video — video par mežiem un Latvijas dabu.
-Jautājumi un testi — iespēja pārbaudīt savas zināšanas.
-Aptaujas — iespēja atbildēt uz jautājumiem un izteikt savu viedokli.
-Vienkāršs dizains — ērta navigācija un pārskatāma informācija.
-Izmantotās tehnoloģijas
-Tehnoloģija	Izmantošana
-HTML	Tīmekļa vietnes struktūra
-CSS	Vietnes dizains un izkārtojums
-JavaScript	Interaktīvie jautājumi un citas funkcijas
-YouTube	Izglītojošo video ievietošana
-Kā izmantot vietni?
-Atver tīmekļa vietni pārlūkprogrammā.
-Izvēlies interesējošo mežu tipu.
-Izlasi informāciju par mežu, augiem un dzīvniekiem.
-Noskaties pieejamos video.
-Atbildi uz jautājumiem un pārbaudi savas zināšanas.
-Piedalies aptaujās.
-Projekta struktūra
-text
+- **Informācija par mežu tipiem** — apraksti par dažādiem mežiem, to augiem un dzīvniekiem.
+- **Izglītojoši video** — video materiāli par mežiem un dabu.
+- **Interaktīvi jautājumi** — iespēja pārbaudīt savas zināšanas.
+- **Aptaujas** — iespēja atbildēt uz jautājumiem un izteikt savu viedokli.
+- **Vienkāršs dizains** — pārskatāma navigācija un ērta lietošana.
+
+## Izmantotās tehnoloģijas
+
+Projektā var tikt izmantotas šādas tehnoloģijas:
+
+- **HTML** — tīmekļa vietnes struktūrai.
+- **CSS** — dizainam un izkārtojumam.
+- **JavaScript** — interaktīvajām funkcijām un jautājumiem.
+- **YouTube** — izglītojošo video ievietošanai.
+
+## Kā izmantot projektu
+
+1. Atver tīmekļa vietni pārlūkprogrammā.
+2. Izvēlies sadaļu par interesējošo mežu tipu.
+3. Izlasi informāciju un noskaties video.
+4. Atver jautājumu sadaļu un pārbaudi savas zināšanas.
+5. Piedalies aptaujās.
+
+## Projekta struktūra
+
+```text
 mezu-tipi/
 ├── index.html
 ├── style.css
@@ -43,35 +46,30 @@ mezu-tipi/
 ├── images/
 ├── videos/
 └── README.md
+```
 
-index.html — galvenā tīmekļa lapa.
-style.css — vietnes izskats un dizains.
-script.js — interaktīvās funkcijas.
-images/ — projekta attēli.
-videos/ — video materiāli, ja tie tiek glabāti atsevišķi.
-README.md — informācija par projektu.
-Projekta nozīme
+*Piezīme: šī ir paredzētā projekta struktūra. Failu un mapju nosaukumi jāpielāgo faktiskajam projektam.*
 
-Meži ir svarīga Latvijas dabas daļa. Tajos dzīvo daudzi dzīvnieki un aug dažādi augi. Meži palīdz saglabāt dabas līdzsvaru, tāpēc ir svarīgi tos aizsargāt.
+## Projekta nozīme
 
-Mēs ceram, ka mūsu vietne palīdzēs skolēniem un citiem interesentiem uzzināt vairāk par mežiem un labāk izprast dabas nozīmi.
+Šis projekts palīdzēs skolēniem un citiem interesentiem labāk izprast mežu nozīmi dabā, iepazīt to daudzveidību un uzzināt, kā aizsargāt apkārtējo vidi.
 
-Nākotnes plāni
+## Nākotnes uzlabojumi
 
-Nākotnē mēs vēlētos papildināt projektu ar jaunām funkcijām:
+- Pievienot vairāk izglītojošu video.
+- Izveidot papildu testus un jautājumus.
+- Pievienot Latvijas mežu karti.
+- Ieviest punktu sistēmu par pareizām atbildēm.
+- Uzlabot vietnes dizainu un atbalstu mobilajām ierīcēm.
 
-Pievienot vairāk informācijas un video par mežiem.
-Izveidot papildu testus un jautājumus.
-Pievienot Latvijas mežu karti.
-Ieviest punktu sistēmu par pareizām atbildēm.
-Uzlabot vietnes izskatu un pielāgot to mobilajām ierīcēm.
-Informācijas avoti
+## Dokumentācijas avoti
 
-Projektā izmantosim uzticamus informācijas avotus par Latvijas mežiem, augiem, dzīvniekiem un dabas aizsardzību. Informāciju par vietnes izveidi iegūsim no HTML, CSS un JavaScript mācību materiāliem.
+- [Atlassian — Software Documentation Best Practices](https://www.atlassian.com/blog/loom/software-documentation-best-practices)
+- [Documentation 101](https://eheidi.dev/posts/documentation-101)
+- [Best-README-Template](https://github.com/othneildrew/Best-README-Template)
 
-Autori
+---
 
-Nikita Saboltas un Matvejs Rusaļčuks
-9.A klase
-
-Mācību projekts — Mežu tipi.
+**Izstrādātājs:** Nikita Saboltas  
+**Projekta nosaukums:** Mežu tipi  
+**Mācību projekts — 9. klase**
